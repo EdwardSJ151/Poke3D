@@ -1,1 +1,3 @@
 ### Dataset coming soon...
+
+First release planned for November/December
